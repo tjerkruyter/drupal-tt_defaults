@@ -1,0 +1,5 @@
+name: tt defaults
+type: module
+description: TT standards for Drupal 8
+core: 8.x
+package: TamTam

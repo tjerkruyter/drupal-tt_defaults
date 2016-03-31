@@ -1,0 +1,14 @@
+{
+  "name": "drupal/tt_defaults",
+  "type": "drupal-module",
+  "description": "TT standards for Drupal 8",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/tt_defaults",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/tt_defaults",
+    "source": "http://cgit.drupalcode.org/tt_defaults"
+  },
+  "require": { }
+}
